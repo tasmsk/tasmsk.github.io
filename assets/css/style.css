@@ -27,19 +27,19 @@ body {
 }
 
 .header_logo {
-	width: 207px;
-	height: 60px;
+	width: 345px;
+	height: 100px;
 }
 
 .phone_number {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 160px;
+	width: 250px;
 }
 
 .phone_number a {
-	font-size: 22px;
+	font-size: 30px;
 	text-align: center;
 	text-decoration: none;
 	color: black;
@@ -60,7 +60,7 @@ body {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	width: 200px;
+	width: 250px;
 }
 
 .personal_account a {
@@ -72,7 +72,12 @@ body {
 }
 
 .personal_account img {
-	height: 40px;
+	height: 60px;
+	padding-right: 10px;
+}
+
+.personal_account p {
+	font-size: 20px;
 }
 /* end Header */
 
@@ -237,7 +242,7 @@ body {
 }
 
 .image_of_advantage img {
-	height: 100px;
+	height: 150px;
 }
 
 .advantage_text {
